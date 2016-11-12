@@ -12,6 +12,8 @@ Repo to store programming resources
 
 [Placehold.it](placehold.it)
 
+***
+
 ## FRAMEWORKS
 
 ### CSS
@@ -21,6 +23,9 @@ Repo to store programming resources
 ### JAVASCRIPT
 
 [markjs](https://markjs.io "Text Highlighter JS Framework")
+
+***
+
 
 ## ARTICLES
 
@@ -45,3 +50,11 @@ Repo to store programming resources
 [Functional Programming For JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.dice3rv4z "Medium | Functional Programming for JS People")
 
 ***
+
+## NEWSLETTERS
+
+[Five Minutes JS](http://us7.campaign-archive1.com/home/?u=b9a8d14c0dcb1dab9fa67a13a&id=f1da950b96)
+
+[Node Weekly](http://nodeweekly.com/issues)
+
+[JavaScript Weekly](http://javascriptweekly.com/issues)

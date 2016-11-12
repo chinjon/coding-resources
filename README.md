@@ -28,16 +28,20 @@ Repo to store programming resources
 
 [Survival Guide For Junior Developers](https://github.com/chinjon/coding-resources)
 
+***
+
 ### HTML
 
+***
 
 ### CSS
 
 [Introduction To CSS Grid Layout](https://www.sitepoint.com/introducing-the-css-grid-layout "Sitepoint")
 
+***
 
 ### JAVASCRIPT
 
 [Functional Programming For JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.dice3rv4z "Medium | Functional Programming for JS People")
 
-[]
+***

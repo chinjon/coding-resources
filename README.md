@@ -24,6 +24,10 @@ Repo to store programming resources
 
 ## ARTICLES
 
+### PROGRAMMING
+
+[Survival Guide For Junior Developers](https://github.com/chinjon/coding-resources)
+
 ### HTML
 
 
@@ -35,3 +39,5 @@ Repo to store programming resources
 ### JAVASCRIPT
 
 [Functional Programming For JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.dice3rv4z "Medium | Functional Programming for JS People")
+
+[]

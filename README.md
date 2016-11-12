@@ -3,7 +3,18 @@ Repo to store programming resources
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet "Github | Markdown Cheatsheet")
 
-## Links
+
+## TOOLS
+
+### HTML/CSS Layout
+
+[Frame Box](framebox.org)
+
+[Placehold.it](placehold.it)
+
+## FRAMEWORKS
+
+## ARTICLES
 
 ### HTML
 
@@ -13,6 +24,6 @@ Repo to store programming resources
 [Introduction To CSS Grid Layout](https://www.sitepoint.com/introducing-the-css-grid-layout "Sitepoint")
 
 
-### JavaScript
+### JAVASCRIPT
 
 [Functional Programming For JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.dice3rv4z "Medium | Functional Programming for JS People")

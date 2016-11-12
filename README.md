@@ -9,7 +9,6 @@ Repo to store programming resources
 ### HTML/CSS Layout
 
 [Frame Box](framebox.org)
-
 [Placehold.it](placehold.it)
 
 ## FRAMEWORKS

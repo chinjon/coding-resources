@@ -12,6 +12,7 @@ Repo to store programming resources
 
 [Placehold.it](placehold.it)
 
+
 ***
 
 ## FRAMEWORKS
@@ -54,22 +55,39 @@ Repo to store programming resources
 ## PODCASTS
 
 [CodeNewbie](http://www.codenewbie.org/)
+
 [The Change Log](https://changelog.com/podcast)
+
 [The Developers Life](http://thisdeveloperslife.com/)
+
 [Front End Happy Hour](http://frontendhappyhour.com/)
+
 [Software Engineer Daily](https://softwareengineeringdaily.com/)
+
 [JavaScript Jabber](https://devchat.tv/js-jabber)
+
 [Developer Tea](https://spec.fm/podcasts/developer-tea)
+
 [CodingBlocks](http://www.codingblocks.net/)
+
 [Modern Web](http://www.modern-web.org/#/modern-web-podcast)
+
 [Front-end Five](https://frontendfive.codeschool.com/)
+
 [Style Guide](http://styleguides.io/podcast/)
+
 [CodePen Radio](https://blog.codepen.io/radio/)
+
 [The Web Platform](http://www.thewebplatformpodcast.com/)
+
 [Adventrues In Angular](https://devchat.tv/adv-in-angular)
+
 [React Native Radio](https://devchat.tv/react-native-radio)
+
 [Responsive Web Design](http://responsivewebdesign.com/podcast/)
+
 [Full Stack Radio](http://www.fullstackradio.com/)
+
 [Reactive](http://reactive.audio/)
 
 ***
@@ -77,7 +95,8 @@ Repo to store programming resources
 ## YOUTUBE CHANNELS
 
 [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
-[DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+
+[DevTips](https://www.youtube.com/user/DevTipsForDesigners)  
 [LearnCode.Academy](https://www.youtube.com/user/learncodeacademy)
 
 

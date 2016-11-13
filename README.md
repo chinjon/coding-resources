@@ -11,7 +11,36 @@ Repo to store programming resources
 [Frame Box](framebox.org)  
 [Placehold.it](placehold.it)  
 [Color Crush](http://colorcrush.cc/#/)  
-[unminify](http://unminify.com/)
+[unminify](http://unminify.com/)  
+[uiGradients](http://uigradients.com/)  
+[Flat UI Colors](http://flatuicolors.com/)  
+
+
+### JAVASCRIPT
+
+[REPL.IT](https://repl.it)  
+[JSBIN](http://jsbin.com/)  
+[JSON Lint](http://jsonlint.com/)  
+
+
+### CHROME PLUGINS
+[Color Tab](http://colorhunt.co/tab/)  
+
+
+
+***
+
+## LEARNING
+
+### TYPING
+
+[Nimble Code](http://nimblecode.io/#/)
+
+
+###JAVASCRIPT
+
+[Simplified JS Jargon](http://jargon.js.org/)  
+
 
 ***
 
@@ -26,7 +55,11 @@ Repo to store programming resources
 
 [markJS](https://markjs.io "Text Highlighter JS Framework")  
 [chartistJS](https://gionkunz.github.io/chartist-js/)  
+[chartJS](http://www.chartjs.org/)  
 [validateJS](https://rickharrison.github.io/validate.js/)  
+[turntableJS](http://polarnotion.github.io/turntable/ "responsive jquery slider")  
+[flippyJS](http://birjolaxew.github.io/flippy.js/)  
+[quietJS](https://github.com/quiet/quiet-js)  
 
 ***
 
@@ -35,7 +68,8 @@ Repo to store programming resources
 
 ### PROGRAMMING
 
-[Survival Guide For Junior Developers](https://github.com/chinjon/coding-resources)
+[Survival Guide For Junior Developers](https://github.com/chinjon/coding-resources)  
+[Learn To Code: It's Harder Than You Thing](http://blog.debugme.eu/learn-to-code/)  
 
 ***
 

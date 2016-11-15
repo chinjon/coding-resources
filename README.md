@@ -26,11 +26,21 @@ Repo to store programming resources
 ### CHROME PLUGINS
 [Color Tab](http://colorhunt.co/tab/)  
 
+### MISC
+[Pastie](http://pastie.org/)
 
 
 ***
 
 ## LEARNING
+
+### ALGORITHMS
+
+[Exercism.io](http://exercism.io/)  
+[Codewars](https://www.codewars.com/)  
+[Hacker Rank](https://www.hackerrank.com/)  
+[Code Fights](https://codefights.com/)  
+[Coderbyte](https://coderbyte.com/)  
 
 ### TYPING
 
@@ -42,6 +52,23 @@ Repo to store programming resources
 [Simplified JS Jargon](http://jargon.js.org/)  
 
 
+## PROGRAMMING BOOKS
+
+### BOOK RESOURCES
+
+[Free Books Repo](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#javascript)  
+
+### HTML/CSS
+
+
+### JAVASCRIPT
+[Human Javascript](http://read.humanjavascript.com/)  
+[Art of Node](https://github.com/maxogden/art-of-node)  
+[JS The Right Way](http://jstherightway.org/)  
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md#you-dont-know-js-book-series)  
+
+
+
 ***
 
 ## FRAMEWORKS/LIBRARIES
@@ -49,7 +76,8 @@ Repo to store programming resources
 ### CSS
 
 [useful.ly](http://www.useful.ly/ "CSS Flexbox")  
-[Boostrap Cheat Sheet](http://www.taesup.com/bootstrap/)
+[Bootstrap Cheat Sheet](http://www.taesup.com/bootstrap/)
+[Bootstrap Cheat Sheet] (https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/)
 
 ### JAVASCRIPT
 
@@ -63,6 +91,11 @@ Repo to store programming resources
 
 ***
 
+## WEB DESIGN
+
+[Thinking With Type](http://thinkingwithtype.com/)  
+
+***
 
 ## ARTICLES
 
@@ -85,9 +118,14 @@ Repo to store programming resources
 
 ### JAVASCRIPT
 
-[Functional Programming For JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.dice3rv4z "Medium | Functional Programming for JS People")
+[Functional Programming For JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.dice3rv4z "Medium | Functional Programming for JS People")  
+[Angular For Complete Beginners](https://codingislove.com/angularjs-for-complete-beginners/)  
+[A Gentle Intro To Node](https://keyholesoftware.com/2016/02/22/a-gentle-introduction-to-node-js/)    
 
 ***
+
+
+
 
 ## PODCASTS
 

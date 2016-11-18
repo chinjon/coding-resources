@@ -88,6 +88,7 @@ Repo to store programming resources
 [turntableJS](http://polarnotion.github.io/turntable/ "responsive jquery slider")  
 [flippyJS](http://birjolaxew.github.io/flippy.js/)  
 [quietJS](https://github.com/quiet/quiet-js)  
+[dynamicJS](http://dynamicsjs.com/)  
 
 ***
 

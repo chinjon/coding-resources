@@ -168,3 +168,7 @@ Repo to store programming resources
 [JavaScript Weekly](http://javascriptweekly.com/issues)
 
 ***
+
+## TWITTER ACCOUNTS
+
+### ARTICLE AGGREGATOR

@@ -65,7 +65,7 @@ Repo to store programming resources
 [Human Javascript](http://read.humanjavascript.com/)  
 [Art of Node](https://github.com/maxogden/art-of-node)  
 [JS The Right Way](http://jstherightway.org/)  
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md#you-dont-know-js-book-series)  
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/README.md#you-dont-know-js-book-series) - Kyle Simpson's universally herald series on understanding JavaScript  
 
 
 
@@ -75,9 +75,9 @@ Repo to store programming resources
 
 ### CSS
 
-[useful.ly](http://www.useful.ly/ "CSS Flexbox")  
-[Bootstrap Cheat Sheet](http://www.taesup.com/bootstrap/)
-[Bootstrap Cheat Sheet] (https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/)
+[useful.ly](http://www.useful.ly/ "CSS Flexbox") - A CSS framework flexbox grid system.  
+[Bootstrap Cheat Sheet](http://www.taesup.com/bootstrap/) - A Bootstrap cheat sheet.
+[Bootstrap Cheat Sheet] (https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/) - Another useful Bootstrap cheat sheet.
 
 ### JAVASCRIPT
 
@@ -85,18 +85,18 @@ Repo to store programming resources
 [chartistJS](https://gionkunz.github.io/chartist-js/)  
 [chartJS](http://www.chartjs.org/)  
 [validateJS](https://rickharrison.github.io/validate.js/)  
-[turntableJS](http://polarnotion.github.io/turntable/ "responsive jquery slider")  
+[turntableJS](http://polarnotion.github.io/turntable/ "responsive jquery slider") - A responsive jQuery slider.  
 [flippyJS](http://birjolaxew.github.io/flippy.js/)  
 [quietJS](https://github.com/quiet/quiet-js)  
 [dynamicJS](http://dynamicsjs.com/)  
-[momentJS](http://momentjs.com/) - library for parseing and manipulating dates in JavaScript  
+[momentJS](http://momentjs.com/) - library for parsing and manipulating dates in JavaScript.  
 
 ***
 
 ## WEB DESIGN
 
-[Thinking With Type](http://thinkingwithtype.com/) - The "defacto"  book on intuitive web design and user interaction  
-[Web Field Manual](http://webfieldmanual.com/) - Online web design manual with breakdowns behind specific examples  
+[Thinking With Type](http://thinkingwithtype.com/) - The "defacto"  book on intuitive web design and user interaction.  
+[Web Field Manual](http://webfieldmanual.com/) - Online web design manual with breakdowns behind specific examples.  
 
 ***
 
@@ -158,7 +158,7 @@ Repo to store programming resources
 
 ## YOUTUBE CHANNELS
 
-[FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)  
+[FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - A rare combination of entertaining and in-depth breakdowns of JavaScript functions.   
 [DevTips](https://www.youtube.com/user/DevTipsForDesigners)  
 [LearnCode.Academy](https://www.youtube.com/user/learncodeacademy)
 

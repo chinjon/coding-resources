@@ -89,12 +89,14 @@ Repo to store programming resources
 [flippyJS](http://birjolaxew.github.io/flippy.js/)  
 [quietJS](https://github.com/quiet/quiet-js)  
 [dynamicJS](http://dynamicsjs.com/)  
+[momentJS](http://momentjs.com/)  
 
 ***
 
 ## WEB DESIGN
 
 [Thinking With Type](http://thinkingwithtype.com/)  
+[Web Field Manual](http://webfieldmanual.com/)
 
 ***
 
@@ -124,9 +126,12 @@ Repo to store programming resources
 [A Gentle Intro To Node](https://keyholesoftware.com/2016/02/22/a-gentle-introduction-to-node-js/)    
 
 ***
+## TESTING  
 
+###JAVASCRIPT  
+[Expect](https://github.com/mjackson/expect#toexist)
 
-
+***
 
 ## PODCASTS
 

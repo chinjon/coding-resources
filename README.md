@@ -89,14 +89,14 @@ Repo to store programming resources
 [flippyJS](http://birjolaxew.github.io/flippy.js/)  
 [quietJS](https://github.com/quiet/quiet-js)  
 [dynamicJS](http://dynamicsjs.com/)  
-[momentJS](http://momentjs.com/)  
+[momentJS](http://momentjs.com/) - library for parseing and manipulating dates in JavaScript  
 
 ***
 
 ## WEB DESIGN
 
-[Thinking With Type](http://thinkingwithtype.com/)  
-[Web Field Manual](http://webfieldmanual.com/)
+[Thinking With Type](http://thinkingwithtype.com/) - The "defacto"  book on intuitive web design and user interaction  
+[Web Field Manual](http://webfieldmanual.com/) - Online web design manual with breakdowns behind specific examples  
 
 ***
 

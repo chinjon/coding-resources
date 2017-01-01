@@ -76,7 +76,7 @@ Repo to store programming resources
 ### CSS
 
 [useful.ly](http://www.useful.ly/ "CSS Flexbox") - A CSS framework flexbox grid system.  
-[Bootstrap Cheat Sheet](http://www.taesup.com/bootstrap/) - A Bootstrap cheat sheet.
+[Bootstrap Cheat Sheet](http://www.taesup.com/bootstrap/) - A Bootstrap cheat sheet.  
 [Bootstrap Cheat Sheet] (https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/) - Another useful Bootstrap cheat sheet.
 
 ### JAVASCRIPT

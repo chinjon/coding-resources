@@ -1,7 +1,8 @@
-# coding-resources
-Repo to store programming resources
+# Coding Resources  
 
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet "Github | Markdown Cheatsheet")
+Repo to store programming resources  
+
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet "Github | Markdown Cheatsheet")  
 
 ***  
 
@@ -15,11 +16,25 @@ Repo to store programming resources
 
 
 ### NOTES (markdown) 
-[Simplenote](https://simplenote.com/) - cross-platform editor, supports markdown (I USE THIS EVERYDAY)  
+[Simplenote](https://simplenote.com/) - **FREE** cross-platform editor, supports markdown (I USE THIS EVERYDAY)  
 [nvALT](http://brettterpstra.com/projects/nvalt/) - OSX and can sync with **Simplenote**  
 [Ghostwriter](https://wereturtle.github.io/ghostwriter/) - cross-platform, yet pretty  
 [MacDown](https://macdown.uranusjr.com/) - markdown editor that's OSX-only but sweet  
 
+### NOTES  
+[Google Keep](https://keep.google.com/)  
+[Writefull](https://chrome.writefullapp.com/) - Makes you write better  
+[Hemingway](http://www.hemingwayapp.com/) - Du U Liek E. Hemingway?  
+[Textpad](http://textpad.surge.sh/)  
+[Tiddly Wiki](http://tiddlywiki.com/) - For those big projects  
+
+### PROJECT MANAGEMENT  
+[Trello](https://trello.com/) - Hello - freemium but free tier good enough    
+[Google Spaces](https://spaces.google.com/) - Google's take on **Trello**  
+[Todoist](https://todoist.com/) - Freemium but for most people the free tier is good enough  
+
+### MISC  
+[Screen To Gif](https://screentogif.codeplex.com/) - handy for creating GIFs to show app functionality and embed on **Github** READMEs
 ***  
 
 ## WEB TOOLS
@@ -48,6 +63,12 @@ Repo to store programming resources
 
 ### CHROME PLUGINS
 [Color Tab](http://colorhunt.co/tab/)  
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) - Reveals the software that built the websites you are viewing.  
+[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) - IDs fonts on current page.  
+[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)  
+[Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)  
+[Responsive Web Design Tester](https://chrome.google.com/webstore/detail/responsive-web-design-tes/objclahbaimlfnbjdeobicmmlnbhamkg)  
+[Corporate Ipsum](https://chrome.google.com/webstore/detail/corporate-ipsum/lfmadckmfehehmdnmhaebniooenedcbb)  
 
 ### DOCS  
 [DevDocs](https://devdocs.io/)  
@@ -145,7 +166,7 @@ Repo to store programming resources
 
 ***
 
-## JOB INTERVIEWS
+## JOB INTERVIEWS & CAREER
 
 ### PREP  
 [Interview Cake](https://www.interviewcake.com/)  
@@ -189,6 +210,7 @@ Repo to store programming resources
 
 ### GENERAL
 [Dev.to](https://dev.to/) - Memes. All da memes.  
+[Hacker News](https://news.ycombinator.com/)  
 
 ### HTML/CSS  
 [CSS-Tricks](https://css-tricks.com/)  
@@ -244,9 +266,20 @@ Repo to store programming resources
 [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - on hiatus at moment me thinks (as of 12/2016)  
 [Mackenzie Child](https://www.youtube.com/user/mackenziechild)
 
-
-
 ***
+
+## SUBREDDITS
+
+[/r/learnprogramming](https://www.reddit.com/r/learnprogramming)  
+[/r/learnjavascript](https://www.reddit.com/r/learnjavascript)  
+[/r/javascript](https://www.reddit.com/r/javascript)  
+[/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer)  
+[/r/webdev](https://www.reddit.com/r/webdev)  
+[/r/fronend](https://www.reddit.com/r/Frontend)  
+[/r/programming](https://www.reddit.com/r/programming)  
+[/r/programmingprompts](https://www.reddit.com/r/ProgrammingPrompts/)  
+
+***  
 
 ## NEWSLETTERS
 

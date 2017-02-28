@@ -12,14 +12,21 @@ Repo to store programming resources
 [Visual Studio Code](https://code.visualstudio.com/) - open source yet so fast  
 [Atom](https://atom.io/) - open source and by Github  
 [Brackets](http://brackets.io/) - open source and by Adobe  
-[Notepad ++](https://notepad-plus-plus.org/)  
+[Notepad ++](https://notepad-plus-plus.org/) - oh so simple  
 
 
-### NOTES (markdown) 
-[Simplenote](https://simplenote.com/) - **FREE** cross-platform editor, supports markdown (I USE THIS EVERYDAY)  
+### CLOUD EDITORS  
+[CodeAnywhere](https://codeanywhere.com/)  
+[Cloud9](https://c9.io/)  
+
+### NOTES (MARKDOWN) 
+[Simplenote](https://simplenote.com/) - **FREE** cross-platform & cross-device-sycing editor with markdown support (I USE THIS EVERYDAY)  
 [nvALT](http://brettterpstra.com/projects/nvalt/) - OSX and can sync with **Simplenote**  
+[ResophNotes](http://www.resoph.com/ResophNotes/Welcome.html) - **Simplenote** client for Windows and has a portable app (development paused but still good)  
+[Standard Notes](https://standardnotes.org/) - cross-platform notes app that has markdown support and dropbox sync with encryption  
 [Ghostwriter](https://wereturtle.github.io/ghostwriter/) - cross-platform, yet pretty  
 [MacDown](https://macdown.uranusjr.com/) - markdown editor that's OSX-only but sweet  
+[EME](https://github.com/egoist/eme) - Cross-platform markdown with export capabilities  
 
 ### NOTES  
 [Google Keep](https://keep.google.com/)  
@@ -27,11 +34,24 @@ Repo to store programming resources
 [Hemingway](http://www.hemingwayapp.com/) - Du U Liek E. Hemingway?  
 [Textpad](http://textpad.surge.sh/)  
 [Tiddly Wiki](http://tiddlywiki.com/) - For those big projects  
+[Grammarly](https://app.grammarly.com/) - Spellchecker on steroids  
 
 ### PROJECT MANAGEMENT  
 [Trello](https://trello.com/) - Hello - freemium but free tier good enough    
 [Google Spaces](https://spaces.google.com/) - Google's take on **Trello**  
-[Todoist](https://todoist.com/) - Freemium but for most people the free tier is good enough  
+[Todoist](https://todoist.com/) - Freemium todo-list but for most people the free tier is good enough  
+
+### READING  
+[Instapaper](https://www.instapaper.com)  
+[Pocket](https://getpocket.com/) - ***as of 2-27-2017*** bought by Mozilla, will be going open source  
+[Feedly](https://feedly.com/)  
+
+### SOCIAL (yes, I know)  
+[TweetDeck](https://tweetdeck.twitter.com/)    
+
+### COMMUNICATION  
+[Slack](https://slack.com/)  
+[Gitter](https://gitter.im)  
 
 ### MISC  
 [Screen To Gif](https://screentogif.codeplex.com/) - handy for creating GIFs to show app functionality and embed on **Github** READMEs
@@ -52,6 +72,10 @@ Repo to store programming resources
 [Font Style Matcher](https://meowni.ca/font-style-matcher/)  
 [WebGradients](https://webgradients.com/)  
 
+
+### TYPOGRAPHY  
+[Font Meme](http://fontmeme.com/) - "I've seen that font before"  
+[Lost Type](http://losttype.com/)  
 
 ### JAVASCRIPT
 

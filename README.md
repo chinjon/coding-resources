@@ -3,11 +3,30 @@ Repo to store programming resources
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet "Github | Markdown Cheatsheet")
 
+***  
 
 ## TOOLS
 
+### EDITORS  
+[Visual Studio Code](https://code.visualstudio.com/) - open source yet so fast  
+[Atom](https://atom.io/) - open source and by Github  
+[Brackets](http://brackets.io/) - open source and by Adobe  
+[Notepad ++](https://notepad-plus-plus.org/)  
+
+
+### NOTES (markdown) 
+[Simplenote](https://simplenote.com/) - cross-platform editor, supports markdown (I USE THIS EVERYDAY)  
+[nvALT](http://brettterpstra.com/projects/nvalt/) - OSX and can sync with **Simplenote**  
+[Ghostwriter](https://wereturtle.github.io/ghostwriter/) - cross-platform, yet pretty  
+[MacDown](https://macdown.uranusjr.com/) - markdown editor that's OSX-only but sweet  
+
+***  
+
+## WEB TOOLS
+
 ### HTML/CSS
 
+[Initializr](http://www.initializr.com/) - HTML5 boilerplate  
 [Frame Box](framebox.org)  
 [Placehold.it](placehold.it)  
 [Color Crush](http://colorcrush.cc/#/)  
@@ -42,6 +61,9 @@ Repo to store programming resources
 
 ## LEARNING
 
+### COURSES  
+[Rithm School](https://www.rithmschool.com/courses#advanced-javascript) - Free courses from a coding bootcamp
+
 ### ALGORITHMS
 
 [Exercism.io](http://exercism.io/)  
@@ -50,6 +72,7 @@ Repo to store programming resources
 [Code Fights](https://codefights.com/)  
 [Coderbyte](https://coderbyte.com/)  
 [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic)  
+[Edabit](https://edabit.com/explore)  
 
 ### TYPING
 
@@ -60,6 +83,7 @@ Repo to store programming resources
 
 ### HTML/CSS  
 [Marksheet](http://marksheet.io/)  
+[Simpl.Info](https://simpl.info/)  
 
 ### JAVASCRIPT
 
@@ -243,7 +267,7 @@ Repo to store programming resources
 [Una Kravets](https://twitter.com/Una)  
 [Sindre Sorhus](https://twitter.com/sindresorhus)  
 [Daniel Shiffman](https://twitter.com/shiffman)  
-[Quincy Larson](https://twitter.com/ossia)
+[Quincy Larson](https://twitter.com/ossia)  
 
 ### JavaScript  
 [Good Module](https://twitter.com/goodmodule) - Tweets handy code snippets  

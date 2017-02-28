@@ -14,6 +14,9 @@ Repo to store programming resources
 [unminify](http://unminify.com/)  
 [uiGradients](http://uigradients.com/)  
 [Flat UI Colors](http://flatuicolors.com/)  
+[H To The Ipsum](http://htotheipsum.com/) - Lorem Ipsum with Jay-Z lyrics... NSFW potentially (HOVA!)  
+[Font Style Matcher](https://meowni.ca/font-style-matcher/)  
+[WebGradients](https://webgradients.com/)  
 
 
 ### JAVASCRIPT
@@ -21,13 +24,18 @@ Repo to store programming resources
 [REPL.IT](https://repl.it)  
 [JSBIN](http://jsbin.com/)  
 [JSON Lint](http://jsonlint.com/)  
+[JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 
 
 ### CHROME PLUGINS
 [Color Tab](http://colorhunt.co/tab/)  
 
+### DOCS  
+[DevDocs](https://devdocs.io/)  
+
 ### MISC
-[Pastie](http://pastie.org/)
+[Pastie](http://pastie.org/)  
+[Website Launch Checklist](https://websitelaunchchecklist.com/)  
 
 
 ***
@@ -41,15 +49,28 @@ Repo to store programming resources
 [Hacker Rank](https://www.hackerrank.com/)  
 [Code Fights](https://codefights.com/)  
 [Coderbyte](https://coderbyte.com/)  
+[Algorithm Visualizer](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic)  
 
 ### TYPING
 
-[Nimble Code](http://nimblecode.io/#/)
+[Nimble Code](http://nimblecode.io/#/)  
 
+### SQL  
+[SQLBolt](https://www.sqlbolt.com/)  
 
-###JAVASCRIPT
+### HTML/CSS  
+[Marksheet](http://marksheet.io/)  
+
+### JAVASCRIPT
 
 [Simplified JS Jargon](http://jargon.js.org/)  
+[Free Code Camp](https://freecodecamp.com/)  
+
+### GIT & VERSION CONTROL  
+[Udacity - How To Use Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)  
+
+### HACKING
+[Hacksplaining](https://www.hacksplaining.com/)
 
 
 ## PROGRAMMING BOOKS
@@ -100,6 +121,13 @@ Repo to store programming resources
 
 ***
 
+## JOB INTERVIEWS
+
+### PREP  
+[Interview Cake](https://www.interviewcake.com/)  
+
+***  
+
 ## ARTICLES
 
 ### PROGRAMMING
@@ -136,18 +164,22 @@ Repo to store programming resources
 ## WEBSITES  
 
 ### GENERAL
-[Dev.to](https://dev.to/)
+[Dev.to](https://dev.to/) - Memes. All da memes.  
 
 ### HTML/CSS  
-[CSS-Tricks](https://css-tricks.com/)
+[CSS-Tricks](https://css-tricks.com/)  
 
 ### JAVASCRIPT
 
+### GIT  
+[Oh Shit Git!](http://ohshitgit.com/)  
+
 ### DESIGN  
-[Codrops](https://tympanus.net/codrops/)
+[Codrops](https://tympanus.net/codrops/)  
+[Perf Rocks](http://perf.rocks/) - Resources for making speedy websites
 
 ### PROGRAMMERS WHO BLOG  
-[Tania Rascia](https://www.taniarascia.com/) - A dev teaching herself JS
+[Tania Rascia](https://www.taniarascia.com/) - A dev teaching herself JS  
 
 ***  
 
@@ -184,7 +216,9 @@ Repo to store programming resources
 [Derek Banas](https://www.youtube.com/user/derekbanas) - The TL;DR of programming  
 [Traversy Media](https://www.youtube.com/user/TechGuyWeb) - really thorough videos on frameworks and libraries  
 [The New Boston](https://www.youtube.com/user/thenewboston)  
-[Ryan Christiani](https://www.youtube.com/user/Mrgexal)
+[Ryan Christiani](https://www.youtube.com/user/Mrgexal)  
+[DevTips](https://www.youtube.com/user/DevTipsForDesigners) - on hiatus at moment me thinks (as of 12/2016)  
+[Mackenzie Child](https://www.youtube.com/user/mackenziechild)
 
 
 

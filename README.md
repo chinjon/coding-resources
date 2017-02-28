@@ -77,7 +77,7 @@ Repo to store programming resources
 
 [useful.ly](http://www.useful.ly/ "CSS Flexbox") - A CSS framework flexbox grid system.  
 [Bootstrap Cheat Sheet](http://www.taesup.com/bootstrap/) - A Bootstrap cheat sheet.  
-[Bootstrap Cheat Sheet] (https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/) - Another useful Bootstrap cheat sheet.
+[Bootstrap Cheat Sheet](https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/) - Another useful Bootstrap cheat sheet.
 
 ### JAVASCRIPT
 
@@ -128,10 +128,28 @@ Repo to store programming resources
 ***
 ## TESTING  
 
-###JAVASCRIPT  
+### JAVASCRIPT  
 [Expect](https://github.com/mjackson/expect#toexist)
 
 ***
+
+## WEBSITES  
+
+### GENERAL
+[Dev.to](https://dev.to/)
+
+### HTML/CSS  
+[CSS-Tricks](https://css-tricks.com/)
+
+### JAVASCRIPT
+
+### DESIGN  
+[Codrops](https://tympanus.net/codrops/)
+
+### PROGRAMMERS WHO BLOG  
+[Tania Rascia](https://www.taniarascia.com/) - A dev teaching herself JS
+
+***  
 
 ## PODCASTS
 
@@ -153,6 +171,7 @@ Repo to store programming resources
 [Responsive Web Design](http://responsivewebdesign.com/podcast/)  
 [Full Stack Radio](http://www.fullstackradio.com/)  
 [Reactive](http://reactive.audio/)  
+[Toolsday](http://toolsday.io/)
 
 ***
 
@@ -160,7 +179,12 @@ Repo to store programming resources
 
 [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - A rare combination of entertaining and in-depth breakdowns of JavaScript functions.   
 [DevTips](https://www.youtube.com/user/DevTipsForDesigners)  
-[LearnCode.Academy](https://www.youtube.com/user/learncodeacademy)
+[LearnCode.Academy](https://www.youtube.com/user/learncodeacademy)  
+[The Coding Train](https://www.youtube.com/user/shiffman)  
+[Derek Banas](https://www.youtube.com/user/derekbanas) - The TL;DR of programming  
+[Traversy Media](https://www.youtube.com/user/TechGuyWeb) - really thorough videos on frameworks and libraries  
+[The New Boston](https://www.youtube.com/user/thenewboston)  
+[Ryan Christiani](https://www.youtube.com/user/Mrgexal)
 
 
 
@@ -170,10 +194,28 @@ Repo to store programming resources
 
 [Five Minutes JS](http://us7.campaign-archive1.com/home/?u=b9a8d14c0dcb1dab9fa67a13a&id=f1da950b96)  
 [Node Weekly](http://nodeweekly.com/issues)  
-[JavaScript Weekly](http://javascriptweekly.com/issues)
+[JavaScript Weekly](http://javascriptweekly.com/issues)  
+[Sidebar.io](http://sidebar.io/)  
+[Hey Designer](http://heydesigner.com/)  
+[NPM Weekly](https://www.npmjs.com/npm-weekly) - Newsletter curated by NPM  
+[FrontEnd Focus](http://frontendfocus.co/)  
+[Mobile Web Weekly](http://mobilewebweekly.co/)
 
 ***
 
 ## TWITTER ACCOUNTS
 
+### Cool Devs
+[Una Kravets](https://twitter.com/Una)  
+[Sindre Sorhus](https://twitter.com/sindresorhus)  
+[Daniel Shiffman](https://twitter.com/shiffman)  
+[Quincy Larson](https://twitter.com/ossia)
+
+### JavaScript  
+[Good Module](https://twitter.com/goodmodule) - Tweets handy code snippets  
+
 ### ARTICLE AGGREGATOR
+[JavaScript Kicks](https://twitter.com/JavaScriptKicks)  
+[JavaScript Daily](https://twitter.com/JavaScriptDaily)  
+[FrontEnd Daily](https://twitter.com/FrontEndDaily)  
+[Mobile Web Daily](https://twitter.com/MobileWebDaily)

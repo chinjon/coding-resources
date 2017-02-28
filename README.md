@@ -138,8 +138,11 @@ Repo to store programming resources
 ### GIT & VERSION CONTROL  
 [Udacity - How To Use Git](https://www.udacity.com/course/how-to-use-git-and-github--ud775)  
 
+### COMPETITIVE PROGRAMMING  
+[Competitive Programmer's Handbook](https://cses.fi/book.html)  
+
 ### HACKING
-[Hacksplaining](https://www.hacksplaining.com/)
+[Hacksplaining](https://www.hacksplaining.com/)  
 
 
 ## PROGRAMMING BOOKS

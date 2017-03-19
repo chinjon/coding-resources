@@ -170,7 +170,14 @@ Repo to store programming resources
 
 [useful.ly](http://www.useful.ly/ "CSS Flexbox") - A CSS framework flexbox grid system.  
 [Bootstrap Cheat Sheet](http://www.taesup.com/bootstrap/) - A Bootstrap cheat sheet.  
-[Bootstrap Cheat Sheet](https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/) - Another useful Bootstrap cheat sheet.
+[Bootstrap Cheat Sheet](https://www.cheatography.com/masonjo/cheat-sheets/bootstrap/) - Another useful Bootstrap cheat sheet.  
+[Bulma CSS](http://bulma.io/) - so fresh n' so clean  
+[Ungrid](https://chrisnager.github.io/ungrid/)  
+[Skeleton](http://getskeleton.com/)  
+[Milligram](https://milligram.github.io/#getting-started)  
+[Rellax](https://dixonandmoe.com/rellax/) - light-weight parallax  
+[Hack CSS](http://hackcss.com/) - a CSS framework with **markdown** aesthetics  
+[https://imperavi.com/kube/](https://imperavi.com/kube/) - clean CSS framework, but docs and site setup are wonky  
 
 ### JAVASCRIPT
 
@@ -190,6 +197,7 @@ Repo to store programming resources
 
 [Thinking With Type](http://thinkingwithtype.com/) - The "defacto"  book on intuitive web design and user interaction.  
 [Web Field Manual](http://webfieldmanual.com/) - Online web design manual with breakdowns behind specific examples.  
+[CodeMyUI](https://codemyui.com)  
 
 ***
 
@@ -291,7 +299,8 @@ Repo to store programming resources
 [The New Boston](https://www.youtube.com/user/thenewboston)  
 [Ryan Christiani](https://www.youtube.com/user/Mrgexal)  
 [DevTips](https://www.youtube.com/user/DevTipsForDesigners) - on hiatus at moment me thinks (as of 12/2016)  
-[Mackenzie Child](https://www.youtube.com/user/mackenziechild)
+[Mackenzie Child](https://www.youtube.com/user/mackenziechild)  
+[Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg) - very lengthy in-depth tutorials on JS development   
 
 ***
 
